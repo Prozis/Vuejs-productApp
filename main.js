@@ -56,7 +56,7 @@ var app = new Vue({
     },
     updateProduct(index) {
       this.selectedVariant = index;
-      console.log(index);
+      //console.log(index);
     }
   }
 })
